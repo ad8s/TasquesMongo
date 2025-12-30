@@ -1,0 +1,322 @@
+[
+  {
+    "nomAlumne": "Laura",
+    "cognom1": "Martínez",
+    "cognom2": "Soler",
+    "dataEntradaTasca": "2025-12-01T09:15:00Z",
+    "completa": true,
+    "observacions": "Tasca entregada abans de la data límit"
+  },
+  {
+    "nomAlumne": "Pol",
+    "cognom1": "García",
+    "cognom2": "López",
+    "dataEntradaTasca": "2025-12-01T11:20:00Z",
+    "completa": false,
+    "observacions": "Falten alguns exercicis"
+  },
+  {
+    "nomAlumne": "Anna",
+    "cognom1": "Vidal",
+    "cognom2": "Riera",
+    "dataEntradaTasca": "2025-12-02T08:45:00Z",
+    "completa": true,
+    "observacions": "Molt bona presentació i contingut"
+  },
+  {
+    "nomAlumne": "Marc",
+    "cognom1": "Pérez",
+    "cognom2": "Ruiz",
+    "dataEntradaTasca": "2025-12-02T13:10:00Z",
+    "completa": false,
+    "observacions": "No s'ha adjuntat el fitxer correcte"
+  },
+  {
+    "nomAlumne": "Júlia",
+    "cognom1": "Sánchez",
+    "cognom2": "Moreno",
+    "dataEntradaTasca": "2025-12-03T10:00:00Z",
+    "completa": true,
+    "observacions": "Tasca correcta"
+  },
+  {
+    "nomAlumne": "Eric",
+    "cognom1": "Fernández",
+    "cognom2": "Gil",
+    "dataEntradaTasca": "2025-12-03T15:30:00Z",
+    "completa": false,
+    "observacions": "Entrega fora de termini"
+  },
+  {
+    "nomAlumne": "Marta",
+    "cognom1": "López",
+    "cognom2": "Cano",
+    "dataEntradaTasca": "2025-12-04T09:50:00Z",
+    "completa": true,
+    "observacions": "Bona estructura del treball"
+  },
+  {
+    "nomAlumne": "David",
+    "cognom1": "Romero",
+    "cognom2": "Navarro",
+    "dataEntradaTasca": "2025-12-04T12:40:00Z",
+    "completa": false,
+    "observacions": "Conté errors de format"
+  },
+  {
+    "nomAlumne": "Paula",
+    "cognom1": "Torres",
+    "cognom2": "Molina",
+    "dataEntradaTasca": "2025-12-05T08:30:00Z",
+    "completa": true,
+    "observacions": "Excel·lent treball"
+  },
+  {
+    "nomAlumne": "Nil",
+    "cognom1": "Ortega",
+    "cognom2": "Castro",
+    "dataEntradaTasca": "2025-12-05T14:10:00Z",
+    "completa": false,
+    "observacions": "No compleix els requisits"
+  },
+  {
+    "nomAlumne": "Clara",
+    "cognom1": "Ramos",
+    "cognom2": "Vega",
+    "dataEntradaTasca": "2025-12-06T09:05:00Z",
+    "completa": true,
+    "observacions": "Contingut ben desenvolupat"
+  },
+  {
+    "nomAlumne": "Adrián",
+    "cognom1": "Muñoz",
+    "cognom2": "Iglesias",
+    "dataEntradaTasca": "2025-12-06T16:25:00Z",
+    "completa": false,
+    "observacions": "Falten conclusions"
+  },
+  {
+    "nomAlumne": "Sara",
+    "cognom1": "Domínguez",
+    "cognom2": "Herrera",
+    "dataEntradaTasca": "2025-12-07T10:15:00Z",
+    "completa": true,
+    "observacions": "Tasca molt completa"
+  },
+  {
+    "nomAlumne": "Hugo",
+    "cognom1": "Vázquez",
+    "cognom2": "Marín",
+    "dataEntradaTasca": "2025-12-07T13:55:00Z",
+    "completa": false,
+    "observacions": "Document incomplet"
+  },
+  {
+    "nomAlumne": "Aina",
+    "cognom1": "Ferrer",
+    "cognom2": "Serra",
+    "dataEntradaTasca": "2025-12-08T09:40:00Z",
+    "completa": true,
+    "observacions": "Bon ús de fonts"
+  },
+  {
+    "nomAlumne": "Oriol",
+    "cognom1": "Blanco",
+    "cognom2": "León",
+    "dataEntradaTasca": "2025-12-08T15:05:00Z",
+    "completa": false,
+    "observacions": "No segueix l'estructura indicada"
+  },
+  {
+    "nomAlumne": "Núria",
+    "cognom1": "Cruz",
+    "cognom2": "Peña",
+    "dataEntradaTasca": "2025-12-09T08:20:00Z",
+    "completa": true,
+    "observacions": "Tasca clara i entenedora"
+  },
+  {
+    "nomAlumne": "Roger",
+    "cognom1": "Serrano",
+    "cognom2": "Campos",
+    "dataEntradaTasca": "2025-12-09T14:45:00Z",
+    "completa": false,
+    "observacions": "Falten exemples"
+  },
+  {
+    "nomAlumne": "Elena",
+    "cognom1": "Rey",
+    "cognom2": "Pardo",
+    "dataEntradaTasca": "2025-12-10T09:30:00Z",
+    "completa": true,
+    "observacions": "Presentació molt cuidada"
+  },
+  {
+    "nomAlumne": "Iván",
+    "cognom1": "Calvo",
+    "cognom2": "Rojas",
+    "dataEntradaTasca": "2025-12-10T16:10:00Z",
+    "completa": false,
+    "observacions": "No s'ha lliurat en format PDF"
+  },
+  {
+    "nomAlumne": "Marina",
+    "cognom1": "Aguilar",
+    "cognom2": "Núñez",
+    "dataEntradaTasca": "2025-12-11T08:55:00Z",
+    "completa": true,
+    "observacions": "Bona explicació dels conceptes"
+  },
+  {
+    "nomAlumne": "Joel",
+    "cognom1": "Prieto",
+    "cognom2": "Santos",
+    "dataEntradaTasca": "2025-12-11T13:35:00Z",
+    "completa": false,
+    "observacions": "Entrega parcial"
+  },
+  {
+    "nomAlumne": "Carla",
+    "cognom1": "Méndez",
+    "cognom2": "Flores",
+    "dataEntradaTasca": "2025-12-12T09:10:00Z",
+    "completa": true,
+    "observacions": "Tasca molt ben resolta"
+  },
+  {
+    "nomAlumne": "Sergi",
+    "cognom1": "Cabrera",
+    "cognom2": "Lozano",
+    "dataEntradaTasca": "2025-12-12T15:50:00Z",
+    "completa": false,
+    "observacions": "Contingut insuficient"
+  },
+  {
+    "nomAlumne": "Laia",
+    "cognom1": "Morales",
+    "cognom2": "Fuentes",
+    "dataEntradaTasca": "2025-12-13T08:35:00Z",
+    "completa": true,
+    "observacions": "Bon treball final"
+  },
+  {
+    "nomAlumne": "Alex",
+    "cognom1": "Herrero",
+    "cognom2": "Carrasco",
+    "dataEntradaTasca": "2025-12-13T14:20:00Z",
+    "completa": false,
+    "observacions": "No s'han citat les fonts"
+  },
+  {
+    "nomAlumne": "Berta",
+    "cognom1": "Luna",
+    "cognom2": "Valls",
+    "dataEntradaTasca": "2025-12-14T09:00:00Z",
+    "completa": true,
+    "observacions": "Tasca molt ben estructurada"
+  },
+  {
+    "nomAlumne": "Pau",
+    "cognom1": "Nieto",
+    "cognom2": "Salas",
+    "dataEntradaTasca": "2025-12-14T15:40:00Z",
+    "completa": false,
+    "observacions": "Falten apartats importants"
+  },
+  {
+    "nomAlumne": "Irene",
+    "cognom1": "Campos",
+    "cognom2": "Redondo",
+    "dataEntradaTasca": "2025-12-15T08:25:00Z",
+    "completa": true,
+    "observacions": "Bon nivell general"
+  },
+  {
+    "nomAlumne": "Víctor",
+    "cognom1": "Gallego",
+    "cognom2": "Mora",
+    "dataEntradaTasca": "2025-12-15T13:10:00Z",
+    "completa": false,
+    "observacions": "Entrega fora de termini"
+  },
+  {
+    "nomAlumne": "Noa",
+    "cognom1": "Ribas",
+    "cognom2": "Costa",
+    "dataEntradaTasca": "2025-12-16T09:45:00Z",
+    "completa": true,
+    "observacions": "Contingut molt complet"
+  },
+  {
+    "nomAlumne": "Arnau",
+    "cognom1": "Solé",
+    "cognom2": "Beltrán",
+    "dataEntradaTasca": "2025-12-16T14:30:00Z",
+    "completa": false,
+    "observacions": "Errors ortogràfics"
+  },
+  {
+    "nomAlumne": "Judith",
+    "cognom1": "Pons",
+    "cognom2": "Roca",
+    "dataEntradaTasca": "2025-12-17T08:10:00Z",
+    "completa": true,
+    "observacions": "Tasca clara i ben explicada"
+  },
+  {
+    "nomAlumne": "Marc",
+    "cognom1": "Serra",
+    "cognom2": "Casas",
+    "dataEntradaTasca": "2025-12-17T15:55:00Z",
+    "completa": false,
+    "observacions": "No compleix el nombre mínim de pàgines"
+  },
+  {
+    "nomAlumne": "Helena",
+    "cognom1": "Costa",
+    "cognom2": "Borràs",
+    "dataEntradaTasca": "2025-12-18T09:35:00Z",
+    "completa": true,
+    "observacions": "Bon ús d'exemples"
+  },
+  {
+    "nomAlumne": "Raül",
+    "cognom1": "Franco",
+    "cognom2": "Mateu",
+    "dataEntradaTasca": "2025-12-18T14:15:00Z",
+    "completa": false,
+    "observacions": "Document desordenat"
+  },
+  {
+    "nomAlumne": "Emma",
+    "cognom1": "Giménez",
+    "cognom2": "Pastor",
+    "dataEntradaTasca": "2025-12-19T08:50:00Z",
+    "completa": true,
+    "observacions": "Tasca molt completa i clara"
+  },
+  {
+    "nomAlumne": "Jan",
+    "cognom1": "Cortés",
+    "cognom2": "Sáez",
+    "dataEntradaTasca": "2025-12-19T13:25:00Z",
+    "completa": false,
+    "observacions": "Falten exemples pràctics"
+  },
+  {
+    "nomAlumne": "Ariadna",
+    "cognom1": "Roldán",
+    "cognom2": "Miró",
+    "dataEntradaTasca": "2025-12-20T09:05:00Z",
+    "completa": true,
+    "observacions": "Treball molt ben desenvolupat"
+  },
+  {
+    "nomAlumne": "Òscar",
+    "cognom1": "Duran",
+    "cognom2": "Puig",
+    "dataEntradaTasca": "2025-12-20T14:40:00Z",
+    "completa": false,
+    "observacions": "No s'han seguit les instruccions"
+  }
+]
