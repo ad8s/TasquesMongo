@@ -6,6 +6,9 @@ Aquest document recull les diferents accions realitzades durant el desenvolupame
 
 ## 2025-12-30 
 - Creació de l'estructura del repositori
-- Documentació de l'activitat1, el disseny de la base de dades i la validació ( Només hi han les captures i una mica de text, falta posar-ho bé i ordenat. ).
+- Disseny de la base de dades i la validació ( Només hi han les captures i una mica de text, falta posar-ho bé i ordenat. ).
 - Afegides les entrades del .json i documentades.
 
+## 2026-01-07
+- Afegit documentació per tot.
+- Fet el App.java amb maven i CRUD.
