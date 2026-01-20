@@ -1,0 +1,36 @@
+{ 
+  "$jsonSchema": { 
+    "bsonType": "object", 
+    "required": [ 
+      "nomAlumne", 
+      "dataEntradaTasca", 
+      "completa" 
+    ], 
+    "properties": { 
+      "nomAlumne": { 
+        "bsonType": "string", 
+        "description": "Nom de l’alumne que entrega la tasca" 
+      }, 
+      "cognom1": { 
+        "bsonType": "string", 
+        "description": "Primer cognom de l’alumne" 
+      }, 
+      "cognom2": { 
+        "bsonType": "string", 
+        "description": "Segon cognom de l’alumne" 
+      }, 
+      "dataEntradaTasca": { 
+        "bsonType": "date", 
+        "description": "Data i hora d’entrada de la tasca" 
+      }, 
+      "completa": { 
+        "bsonType": "bool", 
+        "description": "Indica si la tasca està completada o no" 
+      }, 
+      "observacions": { 
+        "bsonType": "string", 
+        "description": "Observacions associades a la tasca" 
+      } 
+    } 
+  } 
+} 
