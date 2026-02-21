@@ -5,7 +5,7 @@ import java.util.List;
 
 import tasques.Model.Entrada;
 import tasques.Model.EntradaModel;
-import tasques.Model.Model;
+import tasques.Model.ModelApi;
 import tasques.Util.ConnectionManager;
 import tasques.View.View;
 
@@ -208,7 +208,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        EntradaModel model = new Model();
+        EntradaModel model = new ModelApi();
         Main app = new Main(model);
         app.run();
     }
